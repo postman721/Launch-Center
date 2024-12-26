@@ -3,6 +3,7 @@
 
 Launch Center is a sleek and user-friendly media launcher application built with Python and PyQt5. It allows you to quickly access your favorite media platforms with just a click, streamlining your entertainment experience.
 
+![screen](https://github.com/user-attachments/assets/295eae80-3c2b-4265-9648-afc7c55d5bf4)
 
 Features
 
