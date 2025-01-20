@@ -1,5 +1,5 @@
 ### Media Launcher
-
+Note: name has been changed to more descriptive Meida Launcher.
 
 Media Launcher is a sleek and user-friendly media launcher application built with Python and PyQt5. It allows you to quickly access your favorite media platforms with just a click, streamlining your entertainment experience.
 
