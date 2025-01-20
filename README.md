@@ -1,7 +1,7 @@
-### Launch Center
+### Media Launcher
 
 
-Launch Center is a sleek and user-friendly media launcher application built with Python and PyQt5. It allows you to quickly access your favorite media platforms with just a click, streamlining your entertainment experience.
+Media Launcher is a sleek and user-friendly media launcher application built with Python and PyQt5. It allows you to quickly access your favorite media platforms with just a click, streamlining your entertainment experience.
 
 ![Image](https://github.com/user-attachments/assets/06851fd8-35ec-46dd-9174-449bdac5cfe4)
 
