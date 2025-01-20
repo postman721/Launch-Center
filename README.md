@@ -3,7 +3,7 @@
 
 Launch Center is a sleek and user-friendly media launcher application built with Python and PyQt5. It allows you to quickly access your favorite media platforms with just a click, streamlining your entertainment experience.
 
-![screen](https://github.com/user-attachments/assets/295eae80-3c2b-4265-9648-afc7c55d5bf4)
+![Image](https://github.com/user-attachments/assets/06851fd8-35ec-46dd-9174-449bdac5cfe4)
 
 Features
 
@@ -38,24 +38,8 @@ After installing the dependencies, you can run the Launch Center application usi
 Application Overview
 
     Main Window: A clean and centered window displaying buttons for various media platforms.
-    Buttons: Each button corresponds to a different media service. Clicking a button will open the respective service in your default browser or launch the Steam application.
+    Buttons: Each button corresponds to a different media service. 
+    Supports arrow keys and Enter key: Basic support for remote controllers & keyboard navigation.
+    Browser can be chosen via menu.
+    
 
-Supported Media Platforms
-
-    Netflix: Opens Netflix in your default browser.
-    Yle Areena: Opens Yle Areena in your default browser.
-    Disney Plus: Opens Disney Plus in your default browser.
-    Apple TV: Opens Apple TV in your default browser.
-    Discovery Plus: Opens Discovery Plus in your default browser.
-    YouTube: Opens YouTube in your default browser.
-    Steam: Launches the Steam application if installed.
-
-Customizing the Browser
-
-By default, the application uses Firefox to open URLs. You can change the browser by modifying the self.browser variable in the MediaLauncher class:
-
-self.browser = "your_preferred_browser_executable"
-
-For example, to use firefox:
-
-self.browser = "firefox"
